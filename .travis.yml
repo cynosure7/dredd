@@ -11,3 +11,5 @@ jobs:
   include:
     - node_js: "6"
       script: "npm run test"
+    - node_js: "8"
+      script: "npm run test"

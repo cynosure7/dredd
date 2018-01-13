@@ -1,6 +1,6 @@
 {
-  "name": "dredd",
-  "version": "0.0.0-semantically-released",
+  "name": "dredd-proxy-enabled",
+  "version": "0.0.1",
   "description": "HTTP API Testing Framework",
   "main": "lib/dredd.js",
   "bin": {
